@@ -7,17 +7,17 @@ body::before {
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/audiTT01.jpg);
+  background-image: url(audiTT01.jpg);
 }
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/audiTT05.jpg);
+  background-image: url(audiTT05.jpg);
 }
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/img/audiTT04.jpg);
+  background-image: url(audiTT04.jpg);
 }
 .carousel-item {
   height: 48rem;
